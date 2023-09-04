@@ -66,14 +66,14 @@ def test_upload_nfe():
                     <uCom>UN</uCom>
                     <qCom>1.0000</qCom>
                     <vUnCom>100.00</vUnCom>
-                    <vProd>100.00</vProd>
+                    <vProd>1000.00</vProd>
                     <indTot>1</indTot>
                 </prod>
             </det>
             <total>
                 <ICMSTot>
                     <vBC>100.00</vBC>
-                    <vICMS>18.00</vICMS>
+                    <vICMS>38.00</vICMS>
                     <vICMSDeson>0.00</vICMSDeson>
                     <vBCST>0.00</vBCST>
                     <vST>0.00</vST>
@@ -86,7 +86,7 @@ def test_upload_nfe():
                     <vPIS>0.65</vPIS>
                     <vCOFINS>3.00</vCOFINS>
                     <vOutro>0.00</vOutro>
-                    <vNF>100.00</vNF>
+                    <vNF>1000.00</vNF>
                 </ICMSTot>
             </total>
         </infNFe>
